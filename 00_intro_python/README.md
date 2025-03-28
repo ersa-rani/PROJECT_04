@@ -64,7 +64,7 @@ This repository contains **6 logical Python programs** that help in understandin
 ## **📂 How to Run the Programs**
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/ersa-rani/PROJECT_04/blob/main/00_intro_python>
    ```
 2. Navigate to the project directory:
    ```bash
@@ -84,4 +84,4 @@ This repository contains **6 logical Python programs** that help in understandin
 ## **📌 Author**
 👩‍💻 **[ersa rani]**  
 📧 Contact: [ersarani955@gmail.com]  
-🔗 GitHub: [Your GitHub Profile]  
+🔗 GitHub: [https://github.com/ersa-rani]  
